@@ -17,9 +17,9 @@ There, you will also find a description about me, my education, hobbies and skil
 * CSS
 * JavaScript
 
-## ❗The website it's not responsible yet, but it will be soon!
-
 ### 🔗Links: 
 
 * <a href="https://qbrubs.github.io/My_portfolio/">My Portfolio</a>
 * <a href="https://linkedin.com/in/qbrubs/">LinkedIn</a>
+
+### ❗The website it's not responsible yet, but it will be soon!
