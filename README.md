@@ -1,3 +1,5 @@
+![My Portfolio](https://user-images.githubusercontent.com/103202544/180793260-1fafa759-7c76-4c9d-8654-872ad6d93fd4.png)
+
 # **My Portfolio** 👩‍💻
 
 ### ℹ️ About this challenge:
