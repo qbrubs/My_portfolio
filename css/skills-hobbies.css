@@ -1,0 +1,64 @@
+.box {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.skills-hobbies {
+    display: grid;
+    grid-gap: .2rem;
+    grid-template-columns: 50% 50%;
+}
+
+.skills {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    height: 100%;
+    padding: 64px;
+    width: 100%;
+}
+
+.skills__title{
+    font-size: 2rem;
+    font-weight: 500;
+    padding: 10px;
+    text-transform: uppercase;
+}
+
+.skills__title span {
+    color: var(--color-secondary);
+}
+
+.hobbies{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    height: 100%;
+    padding: 64px;
+    width: 100%;
+}
+
+.hobbies__title {
+    font-size: 2rem;
+    font-weight: 500;
+    padding: 10px;
+    text-transform: uppercase;
+}
+
+.hobbies__title span {
+    color: var(--color-secondary);
+}
+
+.icon {
+    color: var(--color-grey-2);
+    font-size: 1.2rem;
+    margin-right: 10px;
+    pointer-events: none;
+}
+
+
+
+
